@@ -13,3 +13,10 @@ h3{
 .parrafoNegro{
     color: fuchsia;
 }
+.imagenPequeña{
+    margin: 10px;
+    height: 250px;
+    border: 20px solid fuchsia ;
+    padding: 10px;
+}
+/**/
